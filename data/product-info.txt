@@ -1,0 +1,13 @@
+Product Name: "Galactic Zoomer 9000"
+Category: "Personal Transport Device"
+Description: "The Galactic Zoomer 9000 is the latest innovation in personal mobility. With its anti-gravity propulsion system and sleek, aerodynamic design, it offers a smooth and silent ride over any terrain. The built-in AI navigation system, 'Nova', provides real-time traffic updates and optimal route suggestions. The chassis is built from a durable, lightweight carbon-fiber composite, and it features a holographic display for speed, battery life, and navigation."
+Features:
+- Top Speed: 150 mph
+- Battery Life: 500 miles per charge
+- Charging Time: 2 hours (fast charge)
+- AI Assistant: Nova (v3.2)
+- Material: Carbon-Fiber Composite
+- Display: Holographic HUD
+- Safety: Omni-directional obstacle avoidance sensors
+Price: $25,000 USD
+Release Date: Q4 2025

@@ -1,0 +1,41 @@
+# Core LangChain libraries
+langchain==0.2.5
+langchain-community==0.2.5
+langchain-core==0.2.9
+langchain-openai==0.1.8
+
+# LLM providers
+openai==1.35.3
+huggingface-hub==0.23.4
+# For local models via Ollama
+langchain-ollama==0.0.9
+
+
+# Vectorstores
+faiss-cpu==1.8.0
+chromadb==0.5.3
+
+# Document Loaders
+pypdf==4.2.0
+python-docx==1.1.2
+unstructured==0.14.8
+docx2txt==0.8
+
+# Data handling & environment
+python-dotenv==1.0.1
+pandas==2.2.2
+jupyter==1.0.0
+ipykernel==6.29.0
+
+# For embeddings
+sentence-transformers==3.0.1
+tiktoken==0.7.0
+
+# Advanced LangChain
+langgraph==0.1.5
+langsmith==0.1.81
+
+# Deployment (optional, for final notebook)
+fastapi==0.111.0
+langserve==0.2.1
+streamlit==1.36.0
